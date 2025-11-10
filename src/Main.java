@@ -27,7 +27,6 @@ public class Main {
                 in.close();
                 System.out.println(response.toString());
 
-                String hex = response.
 
 
                 //Lots of possible errors, my goodness
